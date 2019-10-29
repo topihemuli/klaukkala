@@ -1,0 +1,36 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  p {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid lime;
+  }
+  #distinctparagph {
+      color: blueviolet;
+      font-family: monospace;
+      font-size: 300%;
+      border: none;
+  }
+  #Linkit {
+      color: goldenrod;
+      border: none;
+      
+
+  }
+  a:link {
+    color: goldenrod;
+  }
+  a:hover {
+      color: red; n 
+  }
+  a:visited{
+      color:goldenrod
+  }
+  a:active{
+      color:goldenrod
+  }
