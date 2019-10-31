@@ -1,0 +1,54 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  p {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid lime;
+  }
+  .alusta2 {
+      color: blueviolet;
+      font-family: monospace;
+      font-size: 300%;
+      border: none;
+      
+      background-color: black;
+      border-right:5px red solid;
+      border-left: 5px red solid;
+      border-top: 5px red solid;
+      border-bottom: 5px red solid;
+      border-width: 3px;
+      border-top-style: dotted;
+      padding: 20px;
+      margin: 20px;
+  }
+  .alusta2{
+      font-family:tahoma;
+      font-weight:800;
+      font-style: helvetica;
+      text-decoration:underline;
+      text-transform:uppercase;
+      letter-spacing:0.2em;
+      word-spacing:2em;
+     }
+  .kategoriat {
+      color: yellow;
+      border: none;
+  }
+  a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
+ 
