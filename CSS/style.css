@@ -15,7 +15,26 @@ body {
       font-family: monospace;
       font-size: 300%;
       border: none;
+      
+      background-color: black;
+      border-right:5px red solid;
+      border-left: 5px red solid;
+      border-top: 5px red solid;
+      border-bottom: 5px red solid;
+      border-width: 3px;
+      border-top-style: dotted;
+      padding: 20px;
+      margin: 20px;
   }
+  .alusta2 h1{
+      font-family:tahoma;
+      font-weight:800:
+      font-style:italic;
+      text-decoration:underline;
+      text-transform:uppercase;
+      letter-spacing:0.2em;
+      word-spacing:2em;
+     }
   #Linkit {
       color: goldenrod;
       border: none;
