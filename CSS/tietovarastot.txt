@@ -1,14 +1,17 @@
+Google, one drive, google drive
+
+google tallentaa hakuja ja analysoi niit‰
+
+one drive tallentaa esitelmi‰/tekstej‰si
+
+google driven voit tehd‰ esim puhelimestasi varmuuskopiota ja tallettaa kuvia
+
+
+
 Sovelluksen t‰ytyy tallentaa kaupan tuotteiden tiedot esim = hinta, m‰‰r‰, mist‰ tilataan, kuka tilasi, minne vied‰‰n ja maksu tiedot
 
 
 Tietoja voi hyˆdynt‰‰ esim : siihen mit‰ tuotteita kannattaa myyd‰ ja mit‰ uusia tuotteita kannattaa laittaa myytiin.
-
-
-
-
-
-
-
 
 
 
