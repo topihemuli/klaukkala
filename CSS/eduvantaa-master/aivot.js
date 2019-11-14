@@ -73,7 +73,7 @@ function yhteystietoFunktio() {
     ctx.fillText("550", 550, 10) ;
     // Alla olevalla koodilla voidaan piirtää viivaa diagrammiin.
     ctx.moveTo(40, 200);
-    ctx.fillText("200", 40, 200) ;
+    /*ctx.fillText("200", 40, 200) ;
     ctx.lineTo(60, 250);
     ctx.fillText("250", 60, 250) ;
     ctx.lineTo(80, 200);
@@ -87,7 +87,7 @@ function yhteystietoFunktio() {
     ctx.lineTo(200, 50);
     ctx.fillText("50", 200, 50) ;
     ctx.lineTo(400, 150);
-    ctx.fillText("150", 400, 150) ;
+    ctx.fillText("150", 400, 150) ;*/
     ctx.stroke();
     } 
     
