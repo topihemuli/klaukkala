@@ -30,6 +30,20 @@ function yhteystietoFunktio() {
     var c = document.getElementById("myCanvas");
     var ctx = c.getContext("2d");
     ctx.beginPath();
+  }
+  function diagrammiFunktio(){
+      var c = document.getElementById"mycanvas");
+      var ctx = c.getContext("2d")
+      var arvoarray;
+      var arvopituus;
+      var piste=40;
+      var diagrammi = c.getContext("2d");
+      arvoarray = [100, 150, 100, 110, 120, 110, 120, 120, 130, 150, +
+            100, 150, 100, 110, 120, 110, 420, 320, 430, 150, +
+            150, 100, 150, 100, 110, 120, 110, 120, 110, 120, 120, 130, 150,];
+      
+    
+  }
     
     // diagrammiin voidaan kirjoittaa numeroita haluttuihin kohtiin.
     ctx.fillText("10", 10, 10) ;
