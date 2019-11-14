@@ -1,7 +1,23 @@
- Tietovaraston tietoturva = ovat tiedot varastoitu tarpeeksi turvallisesti vai pääsekö niihin helposti käsiskis kuka vaan
+Sovelluksen täytyy tallentaa kaupan tuotteiden tiedot esim = hinta, määrä, mistä tilataan, kuka tilasi, minne viedään ja maksu tiedot
+
+
+Tietoja voi hyödyntää esim : siihen mitä tuotteita kannattaa myydä ja mitä uusia tuotteita kannattaa laittaa myytiin.
+
+
+
+
+
+
+
+
+
+
+
+
+Tietovaraston tietoturva = ovat tiedot varastoitu tarpeeksi turvallisesti vai pääsekö niihin helposti käsiskis kuka vaan
 
 Tietovaraston suorituskyky = tarpeeksi nopea, jos on täyttämässä jotain mutta kaatu kesken niin ei joudu aloittamaan alusta ja mahtuuko varastoon tarpeeksi tietoa
 
-Tietovaraston eheys = tietoa ei muuteta tallennukseksen jälkeen
+Tietovaraston eheys = tietoa ei muuteta tallennuksen jälkeen
 
 Tietovaraston pysyvyys =  transaktion sitoutumisen jälkeen muutokset eivät katoa järjestelmästä
