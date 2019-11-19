@@ -1,3 +1,14 @@
+$(document).ready(function(){
+  $(toggle1).click(function(){
+    $(laatikko1).toggle();
+  });
+$(toggle2).click(function(){
+    $(laatikko2).toggle();
+});
+$(toggle3).click(function(){
+    $(laatikko3).toggle();
+});
+});
 function laatikkoFunktio(boxNumber){
     alert("Nyt vaihdetaan laatikko"+ boxNumber + ":n sisältöä!");
 
